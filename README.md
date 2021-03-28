@@ -8,7 +8,7 @@
 <p align="left">
 <a href="https://twitter.com/cyberjeevi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="cyberjeevi" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/CYBERARENA" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="CYBERARENA" height="30" width="40" /></a>
-<a href="https://instagram.com/its__me_cj"><img align="center" src="https://image.flaticon.com/icons/svg/174/174855.svg" alt="alt text" width="40" height="30"></a>
+<a href="https://instagram.com/its__me_cj"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="alt text" width="40" height="30"></a>
 </p>
 <!--
 **cyberjeevi/CyberJeevi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
